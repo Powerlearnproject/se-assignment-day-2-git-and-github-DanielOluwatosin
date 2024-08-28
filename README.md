@@ -21,7 +21,7 @@ Version Control is a system that tracks changes to files over time, allowing you
 + **Conflict Resolution:** When multiple developers work on the same files, version control helps manage and merge changes safely, preventing accidental overwrites.
 + **Parallel Development:** Different branches allow for features, experiments, and fixes to be developed independently, without affecting the main project until they’re ready to be merged.
 
-## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+## 2. Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
 ### Setting Up a New Repository on GitHub
 ### Sign in to GitHub:
@@ -67,7 +67,7 @@ Version Control is a system that tracks changes to files over time, allowing you
 + **Create Branches:** For development, consider creating branches for new features or fixes.
 + **Push Changes:** As you make updates, commit your changes and push them to GitHub to keep the repository up to date.
 
-## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
+## 3. Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
 ### Importance of the README File in a GitHub Repository
 + The README file is a crucial part of any GitHub repository as it serves as the first point of contact for anyone interacting with the project. It provides essential information about the project’s purpose, usage, and development status, making it easier for others to understand, use, and contribute to the project. A well-crafted README enhances the clarity and professionalism of the repository, which is particularly important for open-source projects, team collaboration, and attracting contributors.
@@ -119,7 +119,7 @@ Visual indicators that display the project’s status, such as build passing, co
 + **Community Building:**
 + The README can serve as a tool for engaging the community, encouraging participation, and building a sense of ownership and collaboration around the project.
 
-## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
+## 4. Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 
 ### Public Repository vs. Private Repository on GitHub
 ### Public Repository
@@ -191,7 +191,7 @@ The restricted access may make it harder to attract new contributors or engage w
 + Collaboration Style: Collaboration is more controlled, with specific team members or collaborators. Ideal for projects where privacy, security, and focus are critical.
 + Risks: May limit the pool of contributors and feedback, potentially slowing down innovation and development.
 
-## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+## 5. Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
 ### Understanding Commits
 
@@ -249,7 +249,7 @@ The restricted access may make it harder to attract new contributors or engage w
 9. **Verify the Commit on GitHub**
 + Check the Repository: Visit your repository on GitHub and refresh the page. You should see your commit listed with the message you provided.
 
-## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
+## 6. How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
 ### Understanding Branching in Git
 
@@ -327,7 +327,7 @@ Step 3: Switch to the new branch:
 + **Merge Changes:** Once approved, merge your branch back into the main codebase.
 + **Resolve Conflicts:** Handle any merge conflicts that arise to ensure a smooth integration.
 
-## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+## 7. Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
 ### The Role of Pull Requests in the GitHub Workflow
 
@@ -388,7 +388,7 @@ Step 3: Switch to the new branch:
 + Close the Issue: If the pull request was linked to an issue (e.g., Fixes #123), the issue will automatically be closed upon merging.
 + Communicate: Notify your team that the changes have been merged, especially if they affect ongoing work or need to be tested further.
 
-## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+## 8. Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
 ### Understanding the Concept of Forking on GitHub
 
@@ -443,7 +443,7 @@ Forking can also serve as a backup for an important project. If you want to ensu
 + Click on “Pull requests” and then “New pull request.”
 + Compare your changes with the original repository and submit the pull request for review.
 
-## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
+## 9. Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
 ### Importance of Issues and Project Boards on GitHub
 + Issues and Project Boards on GitHub are powerful tools for managing and organizing projects. They help track bugs, manage tasks, and improve overall project organization.
@@ -514,7 +514,7 @@ feasibility.
 + **Agile Development:**
 + Project boards are often used in Agile development methodologies to manage sprints and track the progress of user stories and tasks. Issues are used to document and manage individual tasks and bugs.
 
-## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
+## 10. Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 
 + Using GitHub for version control offers numerous benefits, but it also comes with challenges, especially for new users. Here are some common pitfalls and best practices to help overcome them and ensure smooth collaboration.
 
